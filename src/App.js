@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const http = "http://localhost:3001";
+const http = "const http = "https://fullstack-todolist-be.vercel.app";
 
 function App() {
   const [todos, setTodos] = useState([]);
